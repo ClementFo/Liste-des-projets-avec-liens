@@ -10,6 +10,7 @@ Les applications de gestion des appels est développées en Python et utilise l'
 
 Projets du première stage de master chez Periscope Création (6 mois)
 >Lors de ce stage, j'ai intégré l'équipe de développement back-end.
+
 >Nounou expert:
 https://www.nounou-expert.fr/
 Nounou Expert est une marque du groupe Oui Care (O2) spécialisée dans l’accompagnement de la garde d’enfants à domicile. 
@@ -32,7 +33,8 @@ Ce site a été développé avec Wordpress. Je me suis occupé du développement
 
 
 Projets du deuxième stage de master chez Periscope Création (5 mois)
->Lors de ce stage, j'ai intégré l'équipe de développement back-end. 
+>Lors de ce stage, j'ai intégré l'équipe de développement back-end.
+
 >Plugin pour Wordpress:
 Je me suis chargé du développement back-end d'un plug-in pour Wordpress qui est utilisé par Periscope Création. Ce plug-in est constitué d'un ensemble des sections pouvant être utilisé dans différents templates de sites et géré via le back office de wordpress.
 
