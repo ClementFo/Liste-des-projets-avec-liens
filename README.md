@@ -5,7 +5,7 @@ Liste des projets avec liens
 CDI chez Tel-On depuis 2020:
 >Je suis en charge du développement des interfaces web interne à la société et des applications de gestion des appels.
 Ces interfaces web ont été réalisées avec le framework Symfony et le langage PHP. Il existe actuellement 6 interfaces web.
-Les applications de gestion des appels est développées en Python et utilise l'autocommutateur téléphonique privé Asterisk pour réaliser le lien entre nos applications et celles des Opérateurs.
+Les applications de gestion des appels est développées en Python et utilise l'autocommutateur téléphonique privé Asterisk pour réaliser le lien entre nos applications et celles des Opérateurs (SFR, Orange,...).
 
 
 Stage du première stage de master chez Periscope Création
