@@ -1,10 +1,10 @@
-# Liste-des-projets-de-stage-avec-liens
+# Liste-des-projets-avec-liens
 Liste des projets de stage avec liens
 
 Stage du première stage de master chez Periscope Création
 
 Projet :
->Nonou expert:
+>Nounou expert:
 https://www.nounou-expert.fr/
 Nounou Expert est une marque du groupe Oui Care (O2) spécialisée dans l’accompagnement de la garde d’enfants à domicile. 
 Ce site a été développé avec CMS Wordpress. Je me suis occupé du développement back-end (PHP) des sections pour les témoignages et des agences. Je me suis aussi ocuppé de la mise en place de la page pour la FAQ et de la page d'accueil pour la version nounou et la version parent.
