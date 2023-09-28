@@ -8,8 +8,8 @@ Ces interfaces web ont été réalisées avec le framework Symfony et le langage
 Les applications de gestion des appels est développées en Python et utilise l'autocommutateur téléphonique privé Asterisk pour réaliser le lien entre nos applications et celles des Opérateurs (SFR, Orange,...).
 
 
-Stage du première stage de master chez Periscope Création
-Projet :
+Projets du première stage de master chez Periscope Création (6 mois)
+Lors de ce stage, j'ai intégré l'équipe de développement back-end.
 >Nounou expert:
 https://www.nounou-expert.fr/
 Nounou Expert est une marque du groupe Oui Care (O2) spécialisée dans l’accompagnement de la garde d’enfants à domicile. 
@@ -31,9 +31,8 @@ Parcelle à Vendre est un site d’annonces pour vendre ou acheter des parcelles
 Ce site a été développé avec Wordpress. Je me suis occupé du développement back-end de divers templates et des sections des annonces.
 
 
-Stage du deuxième stage de master chez Periscope Création
-Lors de ce stage, j'ai intégré l'équipe de développement back-end.
-Projet :
+Projets du deuxième stage de master chez Periscope Création (5 mois)
+Lors de ce stage, j'ai intégré l'équipe de développement back-end. 
 >Plugin pour Wordpress:
 Je me suis chargé du développement back-end d'un plug-in pour Wordpress qui est utilisé par Periscope Création. Ce plug-in est constitué d'un ensemble des sections pouvant être utilisé dans différents templates de sites et géré via le back office de wordpress.
 
