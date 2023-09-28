@@ -19,7 +19,7 @@ Ce site a été développé avec CMS Wordpress. Je me suis occupé du développe
 >Wonday
 https://www.wonday.com/
 Wonday est un site de e-commerce pour la vente de fournitures diverses et variées
-Ce site a été développé avec CMS Wordpress. J'ai développé le backend des sections de témoignages et d'actualités. Je me suis aussi chargé de la mise en place de l'extension WooCommerce ainsi que des thèmes et modules relié à cette extension. Suite à cela, j'ai pris en charge les templates de la page d'accueil, du plan du site et de recherche pour ses actualités, les univers de produits, des gammes de produits et des produits.
+Ce site a été développé avec CMS Wordpress. J'ai développé le backend des sections de témoignages et d'actualités. Je me suis aussi chargé de la mise en place de l'extension WooCommerce ainsi que des thèmes et modules reliés à cette extension. Suite à cela, j'ai pris en charge les templates de la page d'accueil, du plan du site et de recherche pour ses actualités, les univers de produits, des gammes de produits et des produits.
 
 >Dorval
 https://www.dorval-am.com/fr_FR
