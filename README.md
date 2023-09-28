@@ -1,5 +1,5 @@
 # Liste-des-projets-avec-liens
-Liste des projets de stage avec liens
+Liste des projets avec liens
 
 Stage du première stage de master chez Periscope Création
 
