@@ -8,6 +8,25 @@ Ces interfaces web ont été réalisées avec le framework Symfony et le langage
 Les applications de gestion des appels est développées en Python et utilise l'autocommutateur téléphonique privé Asterisk pour réaliser le lien entre nos applications et celles des Opérateurs (SFR, Orange,...).
 
 
+Projets du deuxième stage de master chez Periscope Création (5 mois)
+>Lors de ce stage, j'ai intégré l'équipe de développement back-end.
+
+>Plugin pour Wordpress:
+Je me suis chargé du développement back-end d'un plug-in pour Wordpress qui est utilisé par Periscope Création. Ce plug-in est constitué de 28 composants pouvant être utilisé dans différents templates de sites et géré via le back office de wordpress.
+
+>Miléade
+https://www.mileade.com/
+Miléade propose des voyages individuels ou en groupe au sein de villages club ou d'hôtels
+Ce site a été développé avec le CMS Wordpress et le plug-in vu précédement. J'ai travaillé sur ce site et le plug-in en parallèle. Suite à cela, je me suis occupé du moteur de recherche et du composant auto-promo.
+
+>Firefox-send
+Ce projet a été de mettre en place l’outil Firefox-send au sein de l’infrastructure interne de Périscope pour éviter l’utilisation d’autres outils externes
+
+>Timescan
+Timescan est une extension du site Time-nutrition qui offre des services et des solutions pour une alimentation adaptée, en fonction de la morphologie d’une personne (sans aucune distinction de sexe, d’âge ou de religion)
+Je devais préparer le système de docker pour la future refonte de ce projet dont les images containeurs était interne à l’infrastructure de Périscope Création. Suite à cela j'ai réalisé des tests fonctionnels et des corrections. Ensuite, je me suis occupé de la mise en place du CMS Wordpress, de la base de données et d'un formulaire. Enfin, j'ai réalisé la connexion et la communication entre ce site Wordpress et le site Prestashop Time nutrition.
+
+
 Projets du première stage de master chez Periscope Création (6 mois)
 >Lors de ce stage, j'ai intégré l'équipe de développement back-end.
 
@@ -32,17 +51,12 @@ Parcelle à Vendre est un site d’annonces pour vendre ou acheter des parcelles
 Ce site a été développé avec Wordpress. Je me suis occupé du développement back-end de divers templates et des sections des annonces.
 
 
-Projets du deuxième stage de master chez Periscope Création (5 mois)
->Lors de ce stage, j'ai intégré l'équipe de développement back-end.
+Projets du deuxième stage de BTS chez SRA Centre (2 mois)
+>Le groupe SRA intègre depuis 40 ans divers logiciels de gestion pouvant répondre aux problématiques de sociétés au secteur d’activité varié et de différentes tailles. Il possède la solution de gestion ERP Sage X3 pour répondre aux mieux au problématiques
+J'ai pu travailler sur le développement d'une application mobile android relié à l'ERP Sage X3. Pour cela, j'ai utilisé le logiciel Android Studio, avec le langage Java, XML et Sqlite.
 
->Plugin pour Wordpress:
-Je me suis chargé du développement back-end d'un plug-in pour Wordpress qui est utilisé par Periscope Création. Ce plug-in est constitué d'un ensemble des sections pouvant être utilisé dans différents templates de sites et géré via le back office de wordpress.
 
->Miléade
-https://www.mileade.com/
-Miléade propose des voyages individuels ou en groupe au sein de villages club ou d'hôtels
-Ce site a été développé avec le CMS Wordpress et le plug-in vu précédement. J'ai travaillé sur ce site et le plug-in en parallèle. Suite à cela, je me suis occupé du moteur de recherche et du composant auto-promo.
-
->Firefox-send
-Ce projet a été de mettre en place l’outil Firefox-send au sein de l’infrastructure interne de Périscope pour éviter l’utilisation d’autres outils externes
-
+Projets du premier stage de BTS chez BBS Slama (1 mois)
+>BBS Slama est un éditeur de logiciels de calcul thermique et climatique du bâtiment, au service de l'efficacité énergétique et environnementale.
+J'ai travaillé sur l'interface interne de la société pour permettre la mise à jour des actualités sur le flux RSS.
+Ensuite, j'ai travaillé sur le développement d'une application PHP qui permet de communiquer avec une boîte mail afin de récupérer des informations d'un ou plusieurs mail.
