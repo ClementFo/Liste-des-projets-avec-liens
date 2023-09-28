@@ -38,3 +38,9 @@ Ce site a été développé avec le CMS Wordpress et le plug-in vu précédement
 
 >Firefox-send
 Ce projet a été de mettre en place l’outil Firefox-send au sein de l’infrastructure interne de Périscope pour éviter l’utilisation d’autres outils externes
+
+
+CDI chez Tel-On:
+>Je suis en charge du développement des interfaces web interne à la société et des applications de gestion des appels.
+Ces interfaces web ont été réalisées avec le framework Symfony et le langage PHP. Il existe actuellement 6 interfaces web.
+Les applications de gestion des appels est développées en Python et utilise l'autocommutateur téléphonique privé Asterisk pour réaliser le lien entre nos applications et celles des Opérateurs.
